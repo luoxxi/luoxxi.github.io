@@ -7,5 +7,5 @@ preloader:
   # else all
   source: 3
   # pace theme (see https://codebyzach.github.io/pace/)
-  pace_css_url: /css/progress_bar.css
+  pace_css_url: /css/loading.css
   avatar: # 自定义头像
